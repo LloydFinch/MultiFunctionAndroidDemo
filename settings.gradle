@@ -1,1 +1,4 @@
 include ':app', ':UMLibrary'
+
+
+//2020-04-17 不能分享fb图片，提示有些dialog在api 14一下才支持
